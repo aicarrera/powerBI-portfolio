@@ -19,7 +19,7 @@
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
+I am a passionate data enthusiast with a robust background in data analysis and visualization, particularly in Power BI. With a strong foundation in software engineering and data science, I have extensive experience in transforming raw data into actionable outcomes. My expertise lies in creating intuitive, interactive dashboards that not only present data visually but also empower businesses to make informed, data-driven decisions. This portfolio reflects my journey in mastering Power BI, showcasing my ability to communicate complex data effectively while leveraging my technical and analytical skills.
 
 ## [Project 1: Sales Dashboard]
 
@@ -28,12 +28,8 @@ Consumable Sales Dashboard, a powerful and intuitive data visualization tool bui
 
 ![sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif)
 
-## [Project 2: Superstore Sales Dashboard with Streamlit]
+## [Project 2: ]
 
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
-###### Deployment [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tushar2704-superstore-dashboard.streamlit.app/)
-
-![3dash](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit/assets/66141195/ca77655e-b101-44e9-b5e7-fcdbf5aae388)
 
 
 
